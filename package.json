@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample package",
+  "main": "index.js",
+  "bin": {
+    "fibo": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fibonum-array": "^1.0.1",
+    "figlet": "^1.5.0",
+    "yargs": "^16.2.0"
+  },
+  "type": "module"
+}
