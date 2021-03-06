@@ -53,10 +53,10 @@
   "resolved" "https://registry.npmjs.org/escalade/-/escalade-3.1.1.tgz"
   "version" "3.1.1"
 
-"fibonum-array@^1.0.1":
-  "integrity" "sha512-+eYxc6Fj0cp9nHz7U0DOX5AB3tINFk52Yv9UAVZ6vhjoOkUCv+YaaaVyGlVG9T0T85brW1aMPxI48ydK5bSrJw=="
-  "resolved" "https://registry.npmjs.org/fibonum-array/-/fibonum-array-1.0.1.tgz"
-  "version" "1.0.1"
+"fibonum-array@^1.0.3":
+  "integrity" "sha512-g0K1S3WoUVQ80GGMZ3+3OF3BkpVVDQIeT31js5VFzOcW4VrYF1bRlxvYZRW5bQZC5VrjJ+coUDAKD9Wb8Xiw3A=="
+  "resolved" "https://registry.npmjs.org/fibonum-array/-/fibonum-array-1.0.3.tgz"
+  "version" "1.0.3"
 
 "figlet@^1.5.0":
   "integrity" "sha512-ZQJM4aifMpz6H19AW1VqvZ7l4pOE9p7i/3LyxgO2kp+PO/VcDYNqIHEMtkccqIhTXMKci4kjueJr/iCQEaT/Ww=="
@@ -84,9 +84,9 @@
   "version" "2.1.1"
 
 "string-width@^4.1.0", "string-width@^4.2.0":
-  "integrity" "sha512-LL0OLyN6AnfV9xqGQpDBwedT2Rt63737LxvsRxbcwpa2aIeynBApG2Sm//F3TaLHIR1aJBN52DWklc06b94o5Q=="
-  "resolved" "https://registry.npmjs.org/string-width/-/string-width-4.2.1.tgz"
-  "version" "4.2.1"
+  "integrity" "sha512-XBJbT3N4JhVumXE0eoLU9DCjcaF92KLNqTmFCnG1pf8duUxFGwtP6AD6nkjw9a3IdiRtL3E2w3JDiE/xi3vOeA=="
+  "resolved" "https://registry.npmjs.org/string-width/-/string-width-4.2.2.tgz"
+  "version" "4.2.2"
   dependencies:
     "emoji-regex" "^8.0.0"
     "is-fullwidth-code-point" "^3.0.0"
